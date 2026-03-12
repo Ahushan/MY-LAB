@@ -6,7 +6,7 @@ This repository includes **concepts, definitions, use cases, diagrams, best prac
 ---
 
 ## Repository Structure
-
+```markdown
 AWS/
 ├── 01_cloud_basics/
 ├── 02_compute/
@@ -18,7 +18,7 @@ AWS/
 ├── 08_security/
 ├── 09_monitoring_and_operations/
 └── 10_deployment_and_infrastructure/
-
+```
 ---
 
 ## 01. Cloud Basics
