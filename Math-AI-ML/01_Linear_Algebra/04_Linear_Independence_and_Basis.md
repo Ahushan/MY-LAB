@@ -1,7 +1,5 @@
 # 04 — Linear Independence and Basis
 
----
-
 ## 1. Linear Independence
 
 ### Definition

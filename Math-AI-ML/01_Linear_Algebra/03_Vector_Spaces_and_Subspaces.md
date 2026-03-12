@@ -1,7 +1,5 @@
 # 03 — Vector Spaces and Subspaces
 
----
-
 ## 1. Vector Space — Definition
 
 ### Formal Definition

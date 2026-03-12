@@ -1,7 +1,5 @@
 # 05 — Matrices and Types
 
----
-
 ## 1. Matrix Definition and Notation
 
 ### Definition

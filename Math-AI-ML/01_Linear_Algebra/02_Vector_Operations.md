@@ -1,7 +1,5 @@
 # 02 — Vector Operations
 
----
-
 ## 1. Vector Addition
 
 ### Definition

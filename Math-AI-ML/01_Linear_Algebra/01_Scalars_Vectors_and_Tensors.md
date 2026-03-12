@@ -1,7 +1,5 @@
 # 01 — Scalars, Vectors, and Tensors
 
----
-
 ## 1. Scalars
 
 ### Definition
